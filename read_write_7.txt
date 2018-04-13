@@ -1,0 +1,6 @@
+Hello,
+
+Could you please copy my contents to read_write_8.txt
+
+Thanks,
+- read_write_7.txt

@@ -1,0 +1,4 @@
+Hello World!
+Congratulations!
+You are reading the contents of the read_write_6.txt file
+This is the last line.

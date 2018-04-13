@@ -1,0 +1,6 @@
+Hello World!
+- From read_write_2.txt
+This is line 3.
+This is line 4.
+This is the following line.
+This is the last line.
